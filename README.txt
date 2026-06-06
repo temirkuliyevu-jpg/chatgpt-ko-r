@@ -1,0 +1,1 @@
+BOT_TOKEN va GROQ_API_KEY ni muhit o'zgaruvchilariga qo'ying. API kalitlarni kod ichiga yozmang.
